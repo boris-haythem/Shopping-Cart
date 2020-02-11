@@ -1,0 +1,68 @@
+body{
+    background-color: #BCBABA;
+    margin: 0 auto;
+}
+h3{
+    margin: 0px;
+}
+.carousel-height{
+    height: 500px;
+    
+}
+.car{
+    padding: 0px;
+}
+nav>a{
+    color: green !important;
+}
+.dropdown>a{
+    color: rgba(255,255,255,.5) !important;
+    background-color: #343a40!important;
+    border: none !important;
+}
+.styleh{
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+.styleh>i{
+    margin: 10px;
+}
+.styleh>h3{
+    margin: 10px;
+}
+.styleh>p{
+    margin: 10px;
+    
+   
+}
+.textsize{
+    font-size: x-large;
+    margin: 0px;
+}
+.icondisplay{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img-block{
+    width: 300px;
+}
+.block{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;  
+    margin-top: 4px;
+}
+.iconstyle{
+    margin: 10px;
+}
+.iconcolorred{
+    color: red; 
+}
+.iconcolorgreen{
+    color: green;
+}
